@@ -13,4 +13,4 @@ pip intall tensorflow
 pip install keras
 ```
 ## Contributors
-https://github.com/erayon
+Ayon Saha: https://github.com/erayon
