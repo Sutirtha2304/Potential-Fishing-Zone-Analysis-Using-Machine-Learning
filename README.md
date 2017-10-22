@@ -1,4 +1,4 @@
-![Alt text](/relative/path/to/SST.JPG?raw=true)
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 # Potential-Fishing-Zone-Analysis
 Identification of potential fishing zones using machine learning, based on physical and chemical properties of the water.
 ## Description
