@@ -3,10 +3,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sbn
 from sklearn import preprocessing
-np.random.seed(4)
+np.random.seed(10)
 
 td = pd.read_csv('sample_dataset.csv')
-td.head(5)
+td.head(10)
 
 '''
 Sea Surface Temperature, Chlorophyll, 
